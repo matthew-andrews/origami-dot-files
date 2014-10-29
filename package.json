@@ -1,0 +1,11 @@
+{
+  "name": "origami-dot-files",
+  "dependencies": {
+    "denodeify": "^1.1.2",
+    "es6-promise": "^2.0.0",
+    "minimist": "^1.1.0"
+  },
+  "bin": {
+    "origami-dot-files": "./bin/origami-dot-files.js"
+  }
+}
