@@ -7,7 +7,6 @@ var denodeify = require('denodeify');
 var exec = denodeify(require('child_process').exec);
 
 var argv = require('minimist')(process.argv.slice(2));
-var promise = Promise.resolve();
 
 if (argv._.indexOf('install') !== -1) {
 
