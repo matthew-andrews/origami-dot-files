@@ -1,7 +1,7 @@
 origami-dot-files
 =================
 
-Litlte helper to download [FT Origami](http://origami.ft.com) dot files and update them in a single command.
+Little helper to download [FT Origami](http://origami.ft.com) dot files and update them in a single command.
 
 ## Install
 
