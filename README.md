@@ -6,7 +6,7 @@ Little helper to download [FT Origami](http://origami.ft.com) dot files and upda
 ## Install
 
 ```
-npm install -g https://github.com/Financial-Times/origami-build-tools/tarball/master
+npm install -g https://github.com/matthew-andrews/origami-dot-files/tarball/master
 ```
 
 ## Usage
